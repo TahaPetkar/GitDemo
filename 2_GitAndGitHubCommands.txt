@@ -1,0 +1,16 @@
+git config --global user.name "TahaPetkar"
+git config --global user.email "tahapetkar4@gmail.com"
+git config --global color.ui auto
+ 
+ Mandatory Commands:
+ git init
+ git remote add origin https://github.com/TahaPetkar/GitDemo.git
+
+
+ git pull origin main
+ git status 
+
+ git add .
+ git status
+ git commit -m " Any Message  "
+ git push
